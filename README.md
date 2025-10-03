@@ -26,3 +26,7 @@ Assertions:
    ```bash
    java --version
    mvn -v
+2. git clone git@github.com:krisgeorgiev/qa-automation-demo.git
+   cd qa-automation-demo
+   mvn test
+
